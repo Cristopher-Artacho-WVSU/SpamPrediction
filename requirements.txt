@@ -1,5 +1,0 @@
-nltk
-string
-re
-streamlit
-joblib
